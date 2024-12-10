@@ -1,11 +1,11 @@
-bounding_box:
-  - - -2.612294074999852
-    - 59.0141055360001
-  - - -0.25479081899990774
-    - 61.34788646000004
+lonlat:
+  - -1.2833  
+  - 60.2667  
+rotation: 207.33                 
 contributors:
   - systemcatch
   - maxbellec
+  - andrewb343
 country: GB
 region: Europe
 timezone: Europe/London
